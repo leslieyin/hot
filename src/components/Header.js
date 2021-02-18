@@ -40,6 +40,30 @@ class Header extends Component {
               >
                 博客
               </a>
+              <a
+                className="navbar-item"
+                href="https://nav.yhz610.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                导航
+              </a>
+              <a
+                className="navbar-item"
+                href="https://app.yhz610.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                应用分享
+              </a>
+              <a
+                className="navbar-item"
+                href="https://shici.yhz610.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                诗词
+              </a>			  
             </div>
           </div>
         </div>
